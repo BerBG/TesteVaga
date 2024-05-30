@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1C9FB9-16F4-46CA-97B9-7D7D2A5E31C0}|APITeste\\APITeste.csproj|c:\\users\\bernardo\\documents\\teste\\api\\apiteste\\apiteste\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1C9FB9-16F4-46CA-97B9-7D7D2A5E31C0}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1C9FB9-16F4-46CA-97B9-7D7D2A5E31C0}|APITeste\\APITeste.csproj|c:\\users\\bernardo\\documents\\teste\\api\\apiteste\\apiteste\\models\\produtoinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1C9FB9-16F4-46CA-97B9-7D7D2A5E31C0}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\models\\produtoinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1C9FB9-16F4-46CA-97B9-7D7D2A5E31C0}|APITeste\\APITeste.csproj|c:\\users\\bernardo\\documents\\teste\\api\\apiteste\\apiteste\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1C9FB9-16F4-46CA-97B9-7D7D2A5E31C0}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1C9FB9-16F4-46CA-97B9-7D7D2A5E31C0}|APITeste\\APITeste.csproj|c:\\users\\bernardo\\documents\\teste\\api\\apiteste\\apiteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1C9FB9-16F4-46CA-97B9-7D7D2A5E31C0}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1C9FB9-16F4-46CA-97B9-7D7D2A5E31C0}|APITeste\\APITeste.csproj|c:\\users\\bernardo\\documents\\teste\\api\\apiteste\\apiteste\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1C9FB9-16F4-46CA-97B9-7D7D2A5E31C0}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\APITeste\\Models\\EFDBContext.cs",
+              "RelativeDocumentMoniker": "APITeste\\Models\\EFDBContext.cs",
+              "ToolTip": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\APITeste\\Models\\EFDBContext.cs",
+              "RelativeToolTip": "APITeste\\Models\\EFDBContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:26:45.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\APITeste\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "APITeste\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\APITeste\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "APITeste\\Controllers\\ProdutoController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:18:25.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\APITeste\\Program.cs",
+              "RelativeDocumentMoniker": "APITeste\\Program.cs",
+              "ToolTip": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\APITeste\\Program.cs",
+              "RelativeToolTip": "APITeste\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:26:30.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\APITeste\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "APITeste\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\APITeste\\Models\\Produto.cs",
+              "RelativeToolTip": "APITeste\\Models\\Produto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:26:45.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoInputDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\APITeste\\Models\\ProdutoInputDto.cs",
+              "RelativeDocumentMoniker": "APITeste\\Models\\ProdutoInputDto.cs",
+              "ToolTip": "C:\\Users\\Bernardo\\Documents\\Teste\\API\\APITeste\\APITeste\\Models\\ProdutoInputDto.cs",
+              "RelativeToolTip": "APITeste\\Models\\ProdutoInputDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:26:43.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
